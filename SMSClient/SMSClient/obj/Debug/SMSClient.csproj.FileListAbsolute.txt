@@ -1,0 +1,9 @@
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\bin\Debug\SMSClient.exe.config
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\bin\Debug\SMSClient.exe
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\bin\Debug\SMSClient.pdb
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\obj\Debug\SMSClient.exe
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\obj\Debug\SMSClient.pdb
+D:\ilkin\projects\Monex\SMSClient\SMSClient\SMSClient\obj\Debug\SMSClient.csprojResolveAssemblyReference.cache
+F:\Monex2019\ilkin\projects\Monex\NonActive\SMSClient\SMSClient\SMSClient\bin\Debug\SMSClient.exe.config
+F:\Monex2019\ilkin\projects\Monex\NonActive\SMSClient\SMSClient\SMSClient\obj\Debug\SMSClient.exe
+F:\Monex2019\ilkin\projects\Monex\NonActive\SMSClient\SMSClient\SMSClient\obj\Debug\SMSClient.pdb
